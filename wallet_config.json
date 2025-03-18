@@ -1,0 +1,20 @@
+{
+    "auto_submit": true,
+    "save_local": true,
+    "chains": {
+        "ETH": {
+            "enabled": false,
+            "prefix": "88",
+            "suffix": "88"
+        },
+        "TRX": {
+            "enabled": true,
+            "suffix": "8888"
+        },
+        "SOL": {
+            "enabled": false,
+            "prefix": "sol",
+            "suffix": "8888"
+        }
+    }
+}
